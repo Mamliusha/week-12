@@ -1,0 +1,21 @@
+.container {
+    background-color: cornflowerblue;
+    width: 20%;
+    padding: 15px;
+}
+
+input {
+    background-color: lightblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p,
+h2,
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    background-color: lightblue;
+    font: white;
+}
